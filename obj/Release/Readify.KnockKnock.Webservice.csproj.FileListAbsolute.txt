@@ -1,0 +1,6 @@
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\obj\Release\Readify.KnockKnock.Webservice.csprojResolveAssemblyReference.cache
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\bin\Readify.KnockKnock.Webservice.dll.config
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\bin\Readify.KnockKnock.Webservice.dll
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\bin\Readify.KnockKnock.Webservice.pdb
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\obj\Release\Readify.KnockKnock.Webservice.dll
+C:\Users\Adham\documents\visual studio 2013\Projects\Readify.KnockKnock.WindowsDesktop\Readify.KnockKnock.Webservice\obj\Release\Readify.KnockKnock.Webservice.pdb
